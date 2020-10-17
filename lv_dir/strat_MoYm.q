@@ -1,0 +1,1 @@
+strategy strat_MoYm = control: A[] not (NetworkMoYm.Bad)
